@@ -72,13 +72,11 @@ section.card header a, section.card footer a {
   transition: width 500ms ease-in-out;
 }
 
-/* get the image to fit */
 section.card img.profile-image {
-  object-fit: cover;
-  height: 35rem;
-  /* height: 100%; */
-  /* width: 100%; */
-  /* object-fit: contain; */
-  /* object-position: 50% 0; */
+  object-fit: wrap;
+  height: 50%;
+  Width:50%;
+  object-fit: contain;
+  object-position: Left
   
 }
