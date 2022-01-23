@@ -9,7 +9,7 @@ The card format is helpful for my topic because it will allow easy and accessibl
 
 # What data fields does each card need in your project? Why? How might you store this data?
 
-Answer here.
+Data Fields I will need are 
 
 # Explain the changes you made to the HTML structure and the CSS rules for this project. Why did you make these changes and how happy are you with the result? 
 
