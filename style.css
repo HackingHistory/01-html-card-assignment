@@ -73,10 +73,18 @@ section.card header a, section.card footer a {
 }
 
 section.card img.profile-image {
-  object-fit: wrap;
-  height: 50%;
-  Width:50%;
-  object-fit: contain;
-  object-position: Left
+  object-fit: cover;
+  height: 35rem;
+  width: 35rem;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  /* height: 100%; */
+  /* width: 100%; */
+  /* object-fit: contain; */
+  /* object-position: 50% 0; */
+  
+}
   
 }
