@@ -12,12 +12,12 @@ body {
   --color-primary: #d8b1fe
 }
 
-
 .bg-primary a, .bg-success a {
-  color:color: #d8b1fe;
+  color:color: #f0e2fe;
 }
 
 main#cardcontainer {
+  
   justify-content: center;
   display: grid;
   grid-auto-rows: 80rem;
@@ -48,12 +48,13 @@ section.card header, section.card footer {
   padding-bottom: 0.3rem;
   /* background-color: var(--color-success) */
   background-color: #f0e2fe
+
 }
 
 /* make links visible again! */
 
 section.card header a, section.card footer a {
-  color: black;
+  color:black;
 }
 
 
@@ -67,5 +68,4 @@ section.card img.profile-image {
   margin-right: auto;
   width: 55%;
   }
-
 
