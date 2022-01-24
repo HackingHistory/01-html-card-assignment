@@ -9,8 +9,9 @@ body {
   display:grid;
   grid-template-rows: 10rem 1fr;
   grid-gap: 2rem;
-  
+  --color-primary: #d8b1fe
 }
+
 
 .bg-primary a, .bg-success a {
   color:color: #d8b1fe;
