@@ -8,28 +8,30 @@
 body {
   display:grid;
   grid-template-rows: 10rem 1fr;
-  grid-gap: 2rem;
-  
+  grid-gap: 0rem;
+  --color-primary: #d8b1fe
 }
 
 .bg-primary a, .bg-success a {
-  color: white;
+  color:color: #f0e2fe;
 }
 
 main#cardcontainer {
+  
   justify-content: center;
   display: grid;
   grid-auto-rows: 80rem;
-  grid-gap: 2rem;
+  grid-gap: 3rem;
+  
 }
 
 
 section.card {
-  border: 1px solid var(--color-darkGrey) ;
-  background-color: var(--color-lightGrey);
+  border: 3px solid black ;
+  background-color:#EBECF0;
   display: grid;
   grid-template-rows: 1fr 7fr 7fr 1fr;
-  grid-gap: 0rem;
+  grid-gap: 3rem;
   align-items: stretch;
   justify-items: stretch;
   padding: 0;
@@ -41,44 +43,35 @@ section.card {
 }
 
 section.card header, section.card footer {
-  font-size: 2.2rem;
+  font-size: 3rem;
   text-align: center;
   padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
   /* background-color: var(--color-success) */
-  background-color: var(--color-primary)
+  background-color: #f0e2fe
+
 }
 
 /* make links visible again! */
 
 section.card header a, section.card footer a {
-  color: black;
+  color:black;
 }
 
-/* some CSS Magic Examples for the "skills" bar */
-.progress-bar {
-  width: 100%;
-  background-color: #e0e0e0;
-  padding: 3px;
-  border-radius: 3px;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
-}
-
-.progress-bar-fill {
-  display: block;
-  height: 22px;
-  background-color: var(--color-primary);
-  border-radius: 3px;
-  
-  transition: width 500ms ease-in-out;
-}
 
 /* get the image to fit */
 section.card img.profile-image {
   object-fit: cover;
   height: 35rem;
-  /* height: 100%; */
-  /* width: 100%; */
-  /* object-fit: contain; */
-  /* object-position: 50% 0; */
+  width: 35rem;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  }
   
-}
+  .intro {
+    font-family:courier;
+    Font-size:.5rem;
+    }
+

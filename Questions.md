@@ -1,15 +1,16 @@
 # In a single paragraph, briefly describe your project. What is its subject matter and extent? What makes it historically important? Why are you interested in it?
 
-Answer here.
+I want to explore queer fashion culture and its influence on the mainstream world. I would break it down into three to four thematics in this course. These thematics would include queer political fashion, its transnational movement and its effect on citizenship and identity. Secondly, I would like to look at early queer modelling and couture by exploring its impact on ballroom culture. My third thematic would look at gender-bending fashion in lesbian culture from the 1920s onward. While these topics are niche, I believe they are vitally important and underrepresented in the study of cultural and gender history. Furthermore, through this research, I would prioritize queer bipoc culture, which is even more underrepresented in the study of queer history and queer theory and the broader history community. Finally, I am interested in this topic because this vaguely is my intended study of research and thesis focus as I advance into my Masters degree. 
 
 # What makes the card format useful for this topic? What limits do the cards present and how might you expand your project to get around those limits?
 
-Answer here.
+The card format is helpful for my topic because it will allow easy and accessible access to historical knowledge and evidence. I believe in accessible higher education, which includes creating accessible ways to access knowledge without a post-secondary institution. Queer culture is not taught in public education (k-12), and many queer youths go to the internet to learn about their sexuality, identity, and culture. A card format would allow queer individuals from all ages and walks of life to learn about the history of their culture and help understand and formulate their identity. The card format may be limited because, while accessible, they may not offer the space to expand on the history. I will work around these limits by creating pathways and links to a separate web page that expands on the history and theory. These links will contain further information, citations, extra readings, and photo archives to explore. 
+
 
 # What data fields does each card need in your project? Why? How might you store this data?
 
-Answer here.
+Data Fields I will need are 
 
 # Explain the changes you made to the HTML structure and the CSS rules for this project. Why did you make these changes and how happy are you with the result? 
+I changed the background sections to different shades of Lavender, replacing the harsh green for aesthetic and symbolic reasons. Lavender as a colour historically is associated with Queer resistance. This began in the early 19th-century fashion trends following the introduction of synthetic purple  dyes (natural purple dyes are notoriously hard to make and were traditionally reserved for royalty). Originally a popular colour amongst men, it soon became associated with homosexuality; and later used during the McCarthy era  as a symbol anti-gay rhetoric and propoganda coined the "lavender scare." Considering my theme is queer fashion history, I felt it made sense to adjust the colours. I chose to change the font (HTML) to courier for aesthetic reasoning. I felt that courier resembled a classic typewriter setting. Many of the reports and primary sources on Queer prosecution and harrasment I read are written on typewriters; I feel aesthically this made sense to change. Next, I centred the photo and adjusted the size to a square. If everythign works out the image I uploaded to github has also been edited into a square. This task I found diffiuclt and time consuming (due completely to my lack of knowledge on coding); Overall I am happy with how things turned out. Ideally, if I knew more, I would have preferred to move the picture to either the right or left and have the text paragraph wrap around it. I spent a lot of time trying and while I could move the pciture the words just didn't fall into place the way I wanted. 
 
-Answer here. 
