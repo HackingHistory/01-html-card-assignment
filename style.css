@@ -8,7 +8,7 @@
 body {
   display:grid;
   grid-template-rows: 10rem 1fr;
-  grid-gap: 2rem;
+  grid-gap: 0rem;
   --color-primary: #d8b1fe
 }
 
@@ -22,12 +22,13 @@ main#cardcontainer {
   display: grid;
   grid-auto-rows: 80rem;
   grid-gap: 3rem;
+  
 }
 
 
 section.card {
   border: 3px solid black ;
-  background-color:white;
+  background-color:#EBECF0;
   display: grid;
   grid-template-rows: 1fr 7fr 7fr 1fr;
   grid-gap: 3rem;
@@ -42,7 +43,7 @@ section.card {
 }
 
 section.card header, section.card footer {
-  font-size: 2.2rem;
+  font-size: 3rem;
   text-align: center;
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
@@ -68,4 +69,9 @@ section.card img.profile-image {
   margin-right: auto;
   width: 55%;
   }
+  
+  .intro {
+    font-family:courier;
+    Font-size:.5rem;
+    }
 
